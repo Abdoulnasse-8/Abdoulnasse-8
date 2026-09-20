@@ -1,18 +1,30 @@
 <h1 align="center">Hey, je suis Abdoul Nasser 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B0842B&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=Ingénieur+en+devenir;Passionné+de+code+et+de+terrain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=B0842B&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=50&lines=Ingénieur+DevOps+%2F+Cloud;Passionné+de+code+et+de+terrain" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abdoulnasse-8&color=B0842B&style=for-the-badge&label=PROFILE+VIEWS" />
+  <a href="https://github.com/Abdoulnasse-8">
+    <img src="https://img.shields.io/badge/GitHub-Abdoulnasse--8-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:criminasser@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-criminasser@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdoulnasse-8&color=B0842B&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 <br>
 
 ---
 
-## 👤 À propos de moi
+## 👤 Qui suis-je ?
 
 <table>
 <tr>
@@ -25,19 +37,19 @@
   <br><br>
   📍 Khouribga, Maroc
   <br>
-  🎓 ENSA Khouribga
+  🎓 ENSA Khouribga — 5e année GI
   <br>
   🎓 1337 Coding School
 </td>
 <td valign="middle" style="padding-left: 30px;">
 
-Élève-ingénieur **Génie Informatique** (option SCIL) en 5e année à l'ENSA Khouribga.
+Élève-ingénieur en **Génie Informatique** (option SCIL) à l'ENSA Khouribga.
 Élève à l'**École 1337 Coding School** — Khouribga (réseau 42).
 
-En dehors du code, je suis un passionné de **football** ⚽ et de **sport** en général.
-Le terrain m'a appris la discipline, le travail d'équipe et la persévérance — des valeurs que je retrouve dans chaque projet.
+Ce qui me drive : **construire des systèmes réels**, de la VM au premier user.
+Chaque projet que je touche est **déployé, testé et documenté** — pas de maquettes.
 
-> *"Le code, c'est comme le football : on progresse en jouant, pas en regardant."*
+> *"Learning by doing. Peer-to-peer. Zero instruction."*
 
 </td>
 </tr>
@@ -47,42 +59,39 @@ Le terrain m'a appris la discipline, le travail d'équipe et la persévérance �
 
 ---
 
-## ⚽ Ce qui me passionne
+## 💼 Mon parcours
 
 <table>
 <tr>
 <td width="33%" align="center" style="padding: 20px;">
-  <h3>⚽ Football</h3>
+  <h3>☁️ Cloud & Infra</h3>
   <br>
-  Fan de football depuis toujours. Le terrain est mon terrain de jeu hors code.
+  Conteneurisation, orchestration, réseaux.
+  <br>Je construis des plateformes qui tournent.
   <br><br>
-  <img src="https://img.shields.io/badge/Position-Milieu_Buteur-B0842B?style=flat-square" />
-  <br>
-  <img src="https://img.shields.io/badge/Équipe_Préférée-Real_Madrid-FEBE10?style=flat-square&logo=real-madrid&logoColor=white" />
-  <br><br>
-  *"Chaque match est une leçon de tactique et de mentalité."*
+  <img src="https://img.shields.io/badge/Docker-24+-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Caddy-2.11-FF6833?style=flat-square" />
 </td>
 <td width="33%" align="center" style="padding: 20px;">
-  <h3>🏋️ Sport</h3>
+  <h3>⚙️ Backend & APIs</h3>
   <br>
-  Le sport fait partie de ma routine. Discipline, constance et dépassement de soi.
+  APIs REST, sécurité, bases de données.
+  <br>Le cœur de chaque application.
   <br><br>
-  <img src="https://img.shields.io/badge/Football-Amiateur-28A745?style=flat-square" />
-  <br>
-  <img src="https://img.shields.io/badge/Musculation-Regulier-6F42C1?style=flat-square" />
-  <br><br>
-  *"Un esprit sain dans un corps sain."*
+  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </td>
 <td width="33%" align="center" style="padding: 20px;">
-  <h3>🌍 Culture</h3>
+  <h3>🔒 Sécurité</h3>
   <br>
-  Ouvert d'esprit, curieux du monde. La culture enrichit la vision.
+  Chiffrement, auth, protection.
+  <br>La sécurité n'est pas optionnelle.
   <br><br>
-  <img src="https://img.shields.io/badge/Langues-Français_Arabe_Anglais-1B2A4A?style=flat-square" />
-  <br>
-  <img src="https://img.shields.io/badge/Musique-Hip-Hop_Rai-EA4335?style=flat-square" />
-  <br><br>
-  *"La diversité est la richness of life."*
+  <img src="https://img.shields.io/badge/Fernet-AES--128-9B59B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/CSRF-Protection-28A745?style=flat-square" />
+  <img src="https://img.shields.io/badge/HTTPS-Let's%20Encrypt-009688?style=flat-square" />
 </td>
 </tr>
 </table>
@@ -91,7 +100,7 @@ Le terrain m'a appris la discipline, le travail d'équipe et la persévérance �
 
 ---
 
-## 🛠️ Ce que je fais
+## 🚀 Projets Phares
 
 <table>
 <tr>
@@ -104,20 +113,48 @@ Plateforme PaaS self-hosted — `git push → HTTPS en < 2 min`
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-24+-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-2.11-FF6833?style=flat-square)
+![Tests](https://img.shields.io/badge/Tests-29/29-brightgreen?style=flat-square)
+
+| ✅ Fonctionnalité | |
+|:---|:---|
+| Git push deploy | ✅ |
+| Docker build auto | ✅ |
+| HTTPS Let's Encrypt | ✅ |
+| Env vars chiffrées (Fernet) | ✅ |
+| Logs SSE + Métriques | ✅ |
+| Scaling + Rollback | ✅ |
+| Add-ons PG/Redis | ✅ |
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏥 [Cabinet Médical](https://github.com/Abdoulnasse-8/CabinetMedical)
-Application 3 tiers — Next.js + Spring Boot + PostgreSQL
+Application 3 tiers — déployée sur Mini-Heroku
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5+-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3+-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js&logoColor=white)
+
+```
+cabinetmedical → Next.js (HTTPS)
+cabinet-api    → Spring Boot (HTTPS)
+cabinet-db     → PostgreSQL (add-on)
+```
 
 </td>
 </tr>
 </table>
+
+<br>
+
+---
+
+## 🏅 Certifications
+
+![Oracle](https://img.shields.io/badge/Oracle_Cloud-OCI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-RH124-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![1337](https://img.shields.io/badge/1337-Docker_&_K8s-1B2A4A?style=for-the-badge)
 
 <br>
 
@@ -144,16 +181,6 @@ Application 3 tiers — Next.js + Spring Boot + PostgreSQL
 
 ---
 
-## 🏅 Certifications
-
-![Oracle](https://img.shields.io/badge/Oracle_Cloud-OCI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-RH124-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![1337](https://img.shields.io/badge/1337-Docker_&_K8s-1B2A4A?style=for-the-badge)
-
-<br>
-
----
-
 ## 📂 Repositories
 
 | Projet | Description | Lien |
@@ -163,6 +190,35 @@ Application 3 tiers — Next.js + Spring Boot + PostgreSQL
 | 🏙️ **Urban-Report** | Reporting urbain | [→](https://github.com/Abdoulnasse-8/Urban-Report) |
 | 📚 **LIBFT** | Bibliothèque C — 1337 | [→](https://github.com/Abdoulnasse-8/LIBFT) |
 | 🔄 **push_swap** | Algorithme de tri — 42 | [→](https://github.com/Abdoulnasse-8/push_swap_42) |
+
+<br>
+
+---
+
+## ⚽ Ce qui me passionne
+
+<table>
+<tr>
+<td width="50%" valign="top" style="padding: 20px;">
+
+### ⚽ Le football
+
+Le sport fait partie de moi. Le terrain m'a appris la **discipline**, le **travail d'équipe** et la **persévérance** — des valeurs que je retrouve dans chaque projet.
+
+> *"Chaque match est une leçon de tactique et de mentalité."*
+
+</td>
+<td width="50%" valign="top" style="padding: 20px;">
+
+### 🌍 La culture
+
+Curieux du monde, ouvert d'esprit. La diversité enrichit la vision — que ce soit à travers les langues, la musique ou les rencontres.
+
+> *"La diversité est la richesse de la vie."*
+
+</td>
+</tr>
+</table>
 
 <br>
 
