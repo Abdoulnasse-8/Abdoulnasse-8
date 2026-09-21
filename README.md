@@ -230,7 +230,7 @@ Curieux du monde, ouvert d'esprit. La diversité enrichit la vision — que ce s
 
 <br>
 
-**Abdoul Nasser HAMMA TINNI**
+**Abdoul Nasser Hamma Tinni**
 
 *ENSA Khouribga · 1337 Coding School · 2025-2026*
 
